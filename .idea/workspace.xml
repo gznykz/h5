@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86342613-c4f6-4ed2-ba17-271c0f525099" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/boby.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boby.html" beforeDir="false" afterPath="$PROJECT_DIR$/boby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/boby.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/boby.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="boby.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/boby.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="46" column="29" selection-end-line="205" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="709">
+              <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
             </state>
           </provider>
         </entry>
@@ -39,8 +29,8 @@
       <file leaf-file-name="boby.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/boby.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+            <state relative-caret-position="626">
+              <caret line="116" column="107" selection-start-line="116" selection-start-column="107" selection-end-line="116" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -132,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552709912408</updated>
-      <workItem from="1552709914686" duration="83000" />
+      <workItem from="1552709914686" duration="1252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83000" />
+    <option name="totallyTimeSpent" value="1252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-892" width="1503" height="892" extended-state="0" />
@@ -169,13 +159,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/boby.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
@@ -183,10 +166,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/boby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+        <state relative-caret-position="626">
+          <caret line="116" column="107" selection-start-line="116" selection-start-column="107" selection-end-line="116" selection-end-column="107" />
         </state>
       </provider>
     </entry>
